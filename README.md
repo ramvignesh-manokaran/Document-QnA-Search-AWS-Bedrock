@@ -1,7 +1,8 @@
 ### Document QnA Search
 
-- AWS Bedrock 
-- Langchain
+- Simple demo of AWS Bedrock.
+- PDF Document QnA Search using llama2.
+- Test to Image generation using stable-diffusion.
 
 1. Prepare Documents : Split into chunks -> Create Embeddings (Amazon Titan) -> VectorStore (FAISS)
 2. Ask Question : 
